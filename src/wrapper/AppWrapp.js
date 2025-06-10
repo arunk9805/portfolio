@@ -9,7 +9,7 @@ const AppWrapp = (Component, idName, classNames) => function HOC() {
         <Component />
 
         <div className="copyright">
-          <p className="p-text">@2020 ARUN</p>
+          <p className="p-text">@2025 ARUN</p>
           <p className="p-text">All rights reserved</p>
         </div>
       </div>
